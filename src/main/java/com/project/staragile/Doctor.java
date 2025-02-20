@@ -60,6 +60,5 @@ public class Doctor {
 		this.doctorExperience = doctorExperience;
 	}
 	
-	System.out.println("Hello World!!");
 
 }
